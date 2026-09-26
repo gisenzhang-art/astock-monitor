@@ -1,0 +1,26 @@
+{
+  "dataDate": "2026-09-24",
+  "source": "同花顺金融数据库",
+  "indices": [
+    {"name": "上证指数", "code": "sh000001", "close": 3888.37, "changePercent": -1.22, "amount": "7836.13亿"},
+    {"name": "深证成指", "code": "sz399001", "close": 13316.97, "changePercent": -2.34, "amount": "8697.44亿"},
+    {"name": "创业板指", "code": "sz399006", "close": 3288.95, "changePercent": -2.68, "amount": "4142.18亿"},
+    {"name": "沪深300", "code": "sh000300", "close": 4439.14, "changePercent": -1.73, "amount": "3754.62亿"},
+    {"name": "芯片产业指数", "code": "shH30007", "close": 4197.96, "changePercent": -2.57, "amount": "998.96亿"}
+  ],
+  "aiSectorTopStocks": [
+    {"name": "中国移动", "code": "600941", "close": 97.45, "changePercent": 1.09, "marketCap": "21137.82亿"},
+    {"name": "工业富联", "code": "601138", "close": 61.00, "changePercent": -3.14, "marketCap": "12104.90亿"},
+    {"name": "寒武纪", "code": "688256", "close": 1091.48, "changePercent": -1.05, "marketCap": "6863.82亿"},
+    {"name": "海光信息", "code": "688041", "close": 248.30, "changePercent": -1.34, "marketCap": "5771.33亿"},
+    {"name": "中际旭创", "code": "300308", "close": 895.86, "changePercent": -2.89, "marketCap": "10552.42亿"},
+    {"name": "中芯国际", "code": "688981", "close": 119.98, "changePercent": -1.16, "marketCap": "10273.01亿"},
+    {"name": "新易盛", "code": "300502", "close": 435.00, "changePercent": -3.59, "marketCap": "6067.11亿"},
+    {"name": "科大讯飞", "code": "002230", "close": 38.32, "changePercent": -1.03, "marketCap": "920.48亿"}
+  ],
+  "techAiSubSectors": {
+    "upstream": ["AI芯片", "半导体设备", "半导体材料", "光模块"],
+    "midstream": ["算力服务器", "数据中心", "操作系统", "数据库"],
+    "downstream": ["AI大模型", "AI应用", "机器人", "智能驾驶"]
+  }
+}
